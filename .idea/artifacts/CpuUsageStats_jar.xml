@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CpuUsageStats:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CpuUsageStats_jar</output-path>
+    <root id="archive" name="CpuUsageStats.jar">
+      <element id="module-output" name="CpuUsageStats" />
+    </root>
+  </artifact>
+</component>
